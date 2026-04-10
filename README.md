@@ -75,7 +75,7 @@ npm install
 Create `.env`
 
 
-GEMINI_API_KEY= ***
+GEMINI_API_KEY= AIzaSyAKLd7aE4j26yOM-qEuS01xfhj4JKqW7kI
 
 
 Run server
